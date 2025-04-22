@@ -61,7 +61,8 @@ Add a disk image or file to the case and analyze the contents such as deleted fi
 
 ### Step2: Access Disk Management
   ●	In the new window, select Disk Management.
-  ![image](https://github.com/user-attachments/assets/5d48fd2b-392f-42f1-839a-de7164b72045)
+  ![image](https://github.com/user-attachments/assets/53bc0c7b-43a7-4c3f-b439-d777a2f70014)
+
 
 ### Step3: Shrink the C Drive to Allocate Space
   •	Locate C: drive → Right-click → Select Shrink Volume.
@@ -69,14 +70,17 @@ Add a disk image or file to the case and analyze the contents such as deleted fi
   •	Enter the amount of memory to allocate for the new disk.
   
   •	Click Shrink.
-  ![image](https://github.com/user-attachments/assets/a950fb71-3105-4903-a524-e3b28a246047)
+  ![image](https://github.com/user-attachments/assets/91cf5374-929d-42d9-aac8-cbc99f58baef)
+
 
 ### Step4: Create a New Volume
   •	Right-click on the newly unallocated space → Select New Simple Volume.
-  ![image](https://github.com/user-attachments/assets/41e9c6cb-977b-4d6e-a68c-a362ac0e838d)
+  ![image](https://github.com/user-attachments/assets/bdd0e50e-158b-41df-ae57-b13c7f926c5a)
+
 
   •	Follow the wizard and assign a disk name.
-  ![image](https://github.com/user-attachments/assets/5ad0a711-41c2-46c8-b036-e13adc527afb)
+  ![image](https://github.com/user-attachments/assets/e9c21898-6c68-421d-9616-85ddcee58dab)
+
 
   •	Click Finish to complete the process.
   ![image](https://github.com/user-attachments/assets/7248d01a-6e69-4dff-bb5a-3036036f7ac6)
