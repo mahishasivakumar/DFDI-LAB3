@@ -70,58 +70,72 @@ Add a disk image or file to the case and analyze the contents such as deleted fi
   •	Enter the amount of memory to allocate for the new disk.
   
   •	Click Shrink.
-  ![image](https://github.com/user-attachments/assets/91cf5374-929d-42d9-aac8-cbc99f58baef)
+  ![image](https://github.com/user-attachments/assets/bd4d1a27-80b5-44a4-aff6-3840bb17233b)
+
 
 
 ### Step4: Create a New Volume
   •	Right-click on the newly unallocated space → Select New Simple Volume.
-  ![image](https://github.com/user-attachments/assets/bdd0e50e-158b-41df-ae57-b13c7f926c5a)
+  ![image](https://github.com/user-attachments/assets/cc75fa86-db23-4010-bc88-d49a4bb90a6a)
+
 
 
   •	Follow the wizard and assign a disk name.
-  ![image](https://github.com/user-attachments/assets/e9c21898-6c68-421d-9616-85ddcee58dab)
+  ![image](https://github.com/user-attachments/assets/4be42319-30ad-4d2b-9337-8e203c824902)
+
 
 
   •	Click Finish to complete the process.
-  ![image](https://github.com/user-attachments/assets/7248d01a-6e69-4dff-bb5a-3036036f7ac6)
+  ![image](https://github.com/user-attachments/assets/dba4c7bc-c95c-4715-8323-e266cfbc183f)
+
 
   •	The new Disk Partition is created
-  ![image](https://github.com/user-attachments/assets/667a1eaa-ace8-43ff-9119-c9070b5febc7)
+  ![image](https://github.com/user-attachments/assets/35a26d3c-0781-4295-a238-81af63b5e817)
+
 
 ## ADDING FILES:
 ### Step1: Copy Files to the Partition:
   •	Open File Explorer → Navigate to the newly created drive (C: or D:).
   
   •	Transfer images or files into it.
-  ![image](https://github.com/user-attachments/assets/3e9292cd-1c05-4ebb-8e22-702d42db7c17)
+  ![image](https://github.com/user-attachments/assets/c1fa1957-c588-4007-ad84-849806965a2b)
+
 
 ## OUTPUT:ANALYSING FILES USING AUTOPSY:
 
 ### Step1: Create a Case
   •	Enter a case name and select a location to store the case data.
-  ![image](https://github.com/user-attachments/assets/5f930b4e-9286-4f92-91bd-be21fb4ce196)
+  ![image](https://github.com/user-attachments/assets/935417e8-69c8-4d28-aeb6-8b6f734bcddf)
+
 
   •	Provide a case number and investigator details if required.
 
 ### Step2: Add a Data Source
   •	Click "Add Data Source" and choose the type:
-  ![image](https://github.com/user-attachments/assets/ed2c753b-08d9-4874-bf73-82531e725910)
+  ![image](https://github.com/user-attachments/assets/3ea6c347-e024-4dc7-a927-a8a29dca89dd)
+
 
   •	Select the data source and let Autopsy process it.
 ### Step3: File Analysis
   •	Application
-  ![image](https://github.com/user-attachments/assets/02511196-3d41-4558-9693-a22391ed9b85)
+  ![image](https://github.com/user-attachments/assets/75071817-9716-4247-a02e-1ca2e33b1f3c)
+
 
   •	File Metadata
-  ![image](https://github.com/user-attachments/assets/6c9a744c-b027-48d5-8287-29d8bdd754dd)
-  ![image](https://github.com/user-attachments/assets/4b4ecec7-1add-4e1f-9562-d1b3d939801f)
-  ![image](https://github.com/user-attachments/assets/7dab9ed2-3371-4a38-8092-4f85035fc9b5)
+  ![image](https://github.com/user-attachments/assets/7ce2d3fd-e387-4ca0-9761-b7cd9ef2d417)
+
+  ![image](https://github.com/user-attachments/assets/87596516-9d1b-41ae-90e3-98a9458e766b)
+
+  ![image](https://github.com/user-attachments/assets/ccc51ae4-7cee-4889-bf2d-87433f52c416)
+
 
   •	Click OS Account.
-  ![image](https://github.com/user-attachments/assets/15afdaff-dacf-4af6-b496-257bc27530c7)
+  ![image](https://github.com/user-attachments/assets/e33c6884-d06c-40f0-b47d-6919f5822eea)
+
 
   •	Generate Report
-  ![image](https://github.com/user-attachments/assets/d3169b7f-429d-494a-8124-cb094e4bde1f)
+  ![image](https://github.com/user-attachments/assets/3c502bc7-1504-48bc-9512-81f1250efb1c)
+
 
 
 
