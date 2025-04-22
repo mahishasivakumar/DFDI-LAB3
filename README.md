@@ -27,23 +27,29 @@ Add a disk image or file to the case and analyze the contents such as deleted fi
   •	Visit Autopsy Official Website and download the latest version.
   
   •	Double-click the downloaded file and follow the on-screen instructions.
-  ![image](https://github.com/user-attachments/assets/a461c230-7211-4c06-9a80-e809c5dbdb5c)
+  ![image](https://github.com/user-attachments/assets/336b1c32-4f95-4b32-8451-6d092b616bd8)
+
 
 ### Step2:Installation Process
   •	Launch Autopsy if it correctly works. 
-  ![image](https://github.com/user-attachments/assets/8e82fb48-ae4f-49be-bec6-231d76cde77b)
+  ![image](https://github.com/user-attachments/assets/cc868291-a73e-40f4-bb62-d948401730a3)
+
 
   •	Choose Directory
-  ![image](https://github.com/user-attachments/assets/cce32482-0eca-4a66-982c-63e4b3e1f118)
+  ![image](https://github.com/user-attachments/assets/a1a7f1c1-f4b4-4bc1-b562-4fb0107c866b)
+
 
   •	Give Install
-  ![image](https://github.com/user-attachments/assets/333f1109-b42c-4639-aec6-e616384433cc)
+  ![image](https://github.com/user-attachments/assets/05d7660c-212a-496a-9672-f405dc6d0008)
+
 
   •	Successfully installed
-  ![image](https://github.com/user-attachments/assets/ce67088d-43bb-4a9f-b467-c3e8d325eec1)
+  ![image](https://github.com/user-attachments/assets/a470b38e-11f8-4499-93f3-0878cbd1044e)
+
 
   •	Autopsy Interface
-  ![image](https://github.com/user-attachments/assets/eea203a8-9052-4970-bf73-462cfc76d12f)
+  ![image](https://github.com/user-attachments/assets/739080fa-aaa1-4a9e-bfe3-ee05eba0fb02)
+
 
 ## CREATING A DISK PARTITION:
 ### Step1: Open File Manager
